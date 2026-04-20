@@ -1,0 +1,11 @@
+Creo que existe una conexión muy clara entre cómo manejamos la información y
+nuestra responsabilidad como ciudadanos en internet. Hoy en día es muy fácil
+compartir cualquier cosa, pero el uso responsable de la información nos obliga a
+frenar y verificar antes de publicar algo, lo cual es fundamental para una buena
+participación ciudadana que no cause daño. Por otro lado, la organización del
+trabajo técnico con herramientas como Git me parece muy bueno, porque nos enseña a
+ser ordenados y transparentes con lo que hacemos. Al igual que en la ciudadanía
+digital, en Git cada cambio queda registrado y tiene un propósito. Al final, tanto la
+ética en la red como el uso de herramientas profesionales buscan lo mismo: que
+seamos usuarios más conscientes, organizados y responsables con el impacto que
+generamos en la comunidad digital.
