@@ -1,2 +1,0 @@
-ejercisio semana 2 
-
