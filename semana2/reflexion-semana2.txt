@@ -1,0 +1,14 @@
+en esta semana aprendi que la terminnal es una herramienta 
+muy importante para un desarrollador, porque ayuda a organizar 
+mejor los archivos y carpetas de un proyecto.
+Al principio algunos comandos pueden parecer difíciles,
+pero mientras más se practica más fácil se vuelve utilizarlos. 
+También entendí que usar la terminal hace el trabajo más rápido y ordenado.
+on comandos simples pude crear carpetas, archivos y moverme dentro del
+proyecto sin necesidad de hacerlo manualmente. 
+Además, me di cuenta de que Git se usa mucho desde la terminal
+para guardar los cambios y subir los trabajos a GitHub. 
+Pienso que aprender esto es fundamental porque son cosas que un 
+programador utiliza casi siempre en proyectos reales. 
+esta actividad me ayudó a seguir mejorando y entendiendo más 
+cómo trabajar de forma organizada.
