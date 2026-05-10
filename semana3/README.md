@@ -1,1 +1,2 @@
-semana 3
+ejercisio semana 2 
+
