@@ -1,0 +1,14 @@
+Repositorio:
+Es el espacio digital donde se almacena todo el proyecto, incluyendo
+el historial completo de cambios y Funciona como una base de datos que 
+permite organizar archivos y carpetas, manteniendo un registro de quién hizo qué y cuándo.
+
+Commit:
+Es una captura o "instantánea" del estado actual de tus archivos en un momento específico. 
+Cada commit actúa como un punto de control con un mensaje descriptivo, permitiéndote
+volver a versiones anteriores si algo falla en el desarrollo.
+
+Push:
+Es el comando que se utiliza para enviar los cambios locales (tus commits) desde tu 
+computadora hacia un repositorio remoto, como GitHub. Esto permite que el código
+esté respaldado en la nube y sea accesible para otros colaboradores.
