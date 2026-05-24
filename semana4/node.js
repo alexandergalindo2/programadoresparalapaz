@@ -1,9 +1,0 @@
-Pienso que es importante que las comunidades puedan crear herramientas tecnológicas propias.
-Porque muchas veces tienen necesidades que otras aplicaciones no solucionan.
-Con tecnologías abiertas como Node.js cualquier persona puede aprender a programar.
-Además, no es necesario pagar licencias costosas para empezar a desarrollar proyectos.
-Esto ayuda a que las personas tengan más conocimiento sobre tecnología.
-También permite trabajar en equipo y crear soluciones para problemas reales.
-Por ejemplo, se pueden hacer herramientas para educación o servicios comunitarios.
-Otro beneficio es que las comunidades dependen menos de empresas externas.
-al final, Node.js ayuda a construir proyectos útiles para mejorar la sociedad.
