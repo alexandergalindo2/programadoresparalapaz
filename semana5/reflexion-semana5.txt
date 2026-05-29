@@ -1,0 +1,9 @@
+Las APIs son herramientas fundamentales que sirven para conectar a las comunidades y canalizar información
+de manera eficiente. Al actuar como puentes de comunicación, permiten centralizar reportes, 
+alertas vecinales o solicitudes de servicios en un solo servidor de manera automatizada. Por ejemplo, 
+una API bien estructurada puede recibir reportes de fugas de agua o cortes de energía desde diferentes 
+aplicaciones móviles y organizarlos al instante por prioridades o zonas geográficas. Esto evita el caos
+de los mensajes en redes sociales o llamadas telefónicas que suelen perderse. Además, al estandarizar los
+datos recibidos mediante formatos limpios como JSON, las APIs facilitan que los líderes comunitarios
+o entidades públicas visualicen las emergencias en tiempo real mediante mapas o tableros de control. 
+En consecuencia, la gestión colectiva se vuelve mucho más transparente, rápida y orientada a soluciones reales.
