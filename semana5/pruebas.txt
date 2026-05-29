@@ -1,0 +1,10 @@
+Resultados de las pruebas en el navegador:
+
+1. http://localhost:3000
+Al acceder a esta ruta, el navegador muestra el texto "Servidor activo". Esto ocurre porque responde al método GET de la ruta raíz ('/').
+
+2. http://localhost:3000/saludo
+El navegador muestra el texto "Hola comunidad", que es la respuesta configurada para el endpoint '/saludo'.
+
+3. http://localhost:3000/mensaje/juan
+El navegador muestra el texto "Hola juan". El servidor toma la palabra "juan" de la URL a través del parámetro dinámico ':nombre' (req.params.nombre) y la concatena en la respuesta.
