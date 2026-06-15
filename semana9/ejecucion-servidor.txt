@@ -1,0 +1,11 @@
+Análisis del proceso de ejecución del servidor:
+
+1. Al ejecutar el comando 'node server.js', Node.js interpreta nuestro código, levanta el entorno en la memoria y asocia la aplicación
+al puerto indicado para empezar a procesar tráfico.
+
+2. En la terminal aparece de inmediato el mensaje informativo: "Servidor ejecutándose en puerto 3000". 
+Esto nos indica que el proceso no ha fallado y está listo para recibir peticiones HTTP.
+
+3. Cuando visitamos la ruta '/estado' en el navegador, el cliente realiza una petición GET y el servidor responde 
+de manera exitosa devolviendo un objeto JSON que contiene las propiedades "estado": "Servidor funcionando"
+y "servicio": "API comunitaria". Esto demuestra que las rutas responden de forma interactiva y correcta.
