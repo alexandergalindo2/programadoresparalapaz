@@ -1,0 +1,7 @@
+La estabilidad y la seguridad de un servidor en plataformas de uso comunitario son aspectos vitales porque sostienen la credibilidad y la utilidad
+del servicio a largo plazo. Cuando una comunidad confía en un sistema para coordinar veedurías, reportar daños o gestionar emergencias locales,
+necesita que la plataforma esté disponible las veinticuatro horas del día, ya que una caída del servidor en un momento crítico podría silenciar
+alertas importantes o desmotivar la participación ciudadana. Asimismo, garantizar que el servidor maneje de manera eficiente la carga de usuarios
+mediante un monitoreo preventivo y un correcto registro de logs evita colapsos de red imprevistos. En conclusión, un servidor estable y seguro
+es el escudo técnico que protege el canal de comunicación del tejido social, asegurando que la participación democrática e comunitaria se desarrolle 
+de manera ininterrumpida, transparente y confiable.
