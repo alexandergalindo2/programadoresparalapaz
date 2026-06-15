@@ -1,0 +1,8 @@
+La capacidad de registrar y consultar reportes mediante plataformas tecnológicas es crucial para las comunidades porque
+democratiza el acceso a la información y fomenta una ciudadanía activa. Al contar con un sistema digital, los ciudadanos
+dejan de depender de trámites burocráticos lentos y obtienen un canal directo para visibilizar las problemáticas de su
+entorno en tiempo real. Por otro lado, la opción de consultar los reportes existentes otorga transparencia al proceso, 
+permitiendo que los vecinos sepan si un problema ya fue notificado y evitando la duplicidad de esfuerzos. Asimismo, 
+esta base de datos centralizada provee a los líderes locales y administradores públicos un diagnóstico claro y transparente
+basado en evidencias reales, facilitando una rendición de cuentas efectiva y permitiendo priorizar de forma justa las obras
+o soluciones que requiere de manera urgente la infraestructura urbana y el bienestar colectivo de los habitantes.
