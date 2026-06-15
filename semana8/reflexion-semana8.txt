@@ -1,0 +1,7 @@
+La seguridad digital es un pilar indispensable para proteger las plataformas tecnológicas comunitarias porque de ella depende directamente 
+la confianza y la integridad de los procesos participativos. Cuando una comunidad decide organizarse y usar una herramienta digital para
+reportar incidencias o debatir, entrega información que, de ser filtrada o alterada, podría poner en riesgo la privacidad de los líderes
+sociales o deslegitimar las veedurías ciudadanas. Un ataque informático que modifique votos o elimine reportes destruiría la credibilidad 
+del sistema, alejando a los ciudadanos de la participación digital. Por ende, implementar medidas de seguridad no es solo una necesidad técnica, 
+sino un compromiso ético y democrático que garantiza un entorno transparente, confiable y seguro donde la ciudadanía pueda expresarse libremente sin 
+temor a que su información sea manipulada o expuesta públicamente.
