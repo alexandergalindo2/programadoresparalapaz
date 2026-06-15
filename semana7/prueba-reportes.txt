@@ -1,0 +1,6 @@
+Al realizar una petición GET a la ruta http://localhost:3000/reportes después de haber enviado datos mediante POST,
+el servidor responde con un arreglo (array) de objetos JSON que contiene todos los reportes registrados hasta el momento. 
+Esto sucede porque el método POST almacena de forma acumulativa cada nuevo objeto dentro de la variable global 'reportes' 
+que actúa en la memoria RAM del servidor. Al consultar el método GET, el servidor simplemente transforma esa lista de datos 
+en formato JSON y la envía al cliente, permitiendo verificar que la información persiste y se organiza de manera secuencial
+gracias a la asignación dinámica de identificadores únicos (IDs numéricos).
